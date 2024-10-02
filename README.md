@@ -6,3 +6,4 @@ Este proyecto es una aplicación simple desarrollada para implementar y demostra
 ## Estructura del Proyecto
 - **/src**: Aquí va el código fuente del proyecto.
 - **/docs**: Esta carpeta contiene la documentación del proyecto.
+- Otras adiciones desde el remoto...
